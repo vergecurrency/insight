@@ -1,12 +1,12 @@
 {
-  "name": "insight-ui",
-  "description": "A bitcoin block explorer and API.",
+  "name": "xvg-insight-ui",
+  "description": "A verge block explorer and API.",
   "version": "1.0.0",
-  "repository": "git://github.com/bitpay/insight.git",
+  "repository": "git://github.com/vergecurrency/xvg-insight.git",
   "bugs": {
-    "url": "https://github.com/bitpay/insight/issues"
+    "url": "https://github.com/vergecurrency/xvg-insight/issues"
   },
-  "homepage": "https://github.com/bitpay/insight",
+  "homepage": "https://github.com/vergecurrency/xvg-insight",
   "license": "MIT",
   "keywords": [
     "insight",
